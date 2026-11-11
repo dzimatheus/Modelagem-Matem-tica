@@ -26,4 +26,6 @@ z_i = quantidade de horas extras para cada periodo t
 
 # 4. função objetivo
 vair ser um somátorio com x e y e um para z, do tipo:
-min Z = $ \sum_{j=1}^n \sum_{i=1}^{n} x_ij.y_ij $. 
+min Z =$$
+\min Z = \sum_{j=1}^{n} \sum_{i=1}^{n} x_{ij} \cdot y_{ij} + \sum_{i=1}^{n} z_i
+$$
