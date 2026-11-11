@@ -28,4 +28,4 @@ zi = quantidade de horas extras para cada periodo t
 vair ser um somátorio com x e y e um para z, do tipo:  
 min Z = Σ (j=1 até n) Σ (i=1 até n) (xij*cup + yij*cue) + Σ (i=1 até n) zi  
 
-5. restrições de capacidade
+# 5. restrições de capacidade
