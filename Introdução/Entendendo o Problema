@@ -1,0 +1,25 @@
+Uma Empresa produz diferentes produtos.
+Nosso objetivo é minimizar o custo total de produção, considerando produção, estoque, preparação, horas extras e demandas não atendidas.
+
+# Qual é o problema?
+A empresa possui um periodode planejamento , fabrica diferentes produtos, precisa determinar quanto produzir e quanto mantém no estoque. A produção é limitada e cada produto
+tem sua exigência de recursos. Ou seja, a empresa quer um plano de produção, visando minimizar o custos total de produção.
+
+# Oque precisa ser decidido?
+Quanto produzir e oque produzir.
+
+# Quais infos conhecidas?
+Sabemos que a empresa produz P produtos em T peridos de tempo, também sabemos que a empresa possue restrições sobre, capacidade, estoque, horas extras, demandas não atendidas,
+custo de produção e estoque, conhecemos o estoque inicial e o custo de preparação da produção, além da capacidade produtiva para cada T perido.
+
+# Quais são as limitações?
+A capacidade de produtividade no perido, a capacidade de armazenamento no estoque, o máximo de horas extras.
+
+# Oque queremos alcançar?
+Queremos produzir visando minimizar o custo total de produção respeitando as restrições e demandas da empresa.
+
+# Oque precisa ser decidido?
+Quanto iremos produzir de produtos P a cada periodo de tempo P.
+
+## OBJETIVO
+Determinar um plano de produção para os T períodos que minimize o custo total, considerando produção, estoque, preparação, horas extras e demanda não atendida.
