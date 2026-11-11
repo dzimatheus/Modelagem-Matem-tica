@@ -7,9 +7,9 @@ P = {1,2, ..., n} produtos a serem produzidos;
 T = {1,2, ..., n} periodo de tempo.
 
 # 2. parâmetros
-dc = demanda conhecida para cada produto p no período t;
-cp = capacidade produtiva limitada em cada período;
-ca = capacidade de armazenamento limitada;
+dc = demanda conhecida para cada produto p no período t;  
+cp = capacidade produtiva limitada em cada período;  
+ca = capacidade de armazenamento limitada;  
 cup = custo unitário de produção;
 cue = custo unitário de estoque;
 cpp = custo de preparação da produção;
