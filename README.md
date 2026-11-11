@@ -19,11 +19,11 @@ p = penalidade por falta de produtos;
 ne = nivel do estoque inicial.
 
 # 3. variáveis de decisão
-xij = quantidade de produtos p que serão produzidos no periodo t
-yij = capacidade do estoque ao fim do periodo t
-zi = quantidade de horas extras para cada periodo t
+x_{ij} = quantidade de produtos p que serão produzidos no periodo t
+y_{ij} = capacidade do estoque ao fim do periodo t
+z_i = quantidade de horas extras para cada periodo t
 // com i relacionado com os produtos e j com o tempo (pode ser p e t)
 
 # 4. função objetivo
 vair ser um somátorio com x e y e um para z, do tipo:
-min Z = $$ \sum_{j=1}^n \sum_{i=1}^{n} x_ij.y_ij $$. 
+min Z = $ \sum_{j=1}^n \sum_{i=1}^{n} x_ij.y_ij $. 
